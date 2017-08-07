@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "summary": "Build a Regex from composable Patterns",
     "repository": "https://github.com/ydschneider/regex-builder.git",
     "license": "BSD3",
